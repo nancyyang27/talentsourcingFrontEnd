@@ -4,6 +4,7 @@ import { useEffect } from 'react';
 import { useGetUser } from '../hooks/useSyncUser';
 import Link from 'next/link';
 
+
 export default function Home() {
   const { getUser, getUserData, getUserLoading, getUserError } = useGetUser();
 
