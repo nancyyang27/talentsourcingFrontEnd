@@ -5,8 +5,6 @@ import { useEffect } from 'react';
 import Amplify, { Auth } from 'aws-amplify';
 import { createAppSyncClient } from '../appsync/AppSyncClient';
 import amplifyConfig from '../deployment/amplify-config';
-// import config from '../src/aws-exports';
-// Amplify.configure({...config, ssr:true})
 
 Amplify.configure(amplifyConfig);
 
