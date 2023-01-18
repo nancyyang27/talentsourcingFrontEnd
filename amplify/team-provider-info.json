@@ -17,6 +17,9 @@
           "appId": "d3317vxvbi870t",
           "type": "cicd"
         }
+      },
+      "auth": {
+        "talentsourcingapp643d95b6": {}
       }
     }
   }
