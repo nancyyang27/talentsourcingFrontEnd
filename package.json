@@ -15,6 +15,7 @@
     "@chakra-ui/react": "^1.7.3",
     "@emotion/react": "^11.7.1",
     "@emotion/styled": "^11.6.0",
+    "apollo": "^2.34.0",
     "apollo-link": "^1.2.14",
     "apollo-link-http": "^1.5.17",
     "aws-amplify": "^4.3.45",
